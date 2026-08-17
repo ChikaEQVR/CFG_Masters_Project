@@ -119,3 +119,11 @@ The final model demonstrated some ability to identify potential subscribers, but
 - **Further model optimisation:** Additional models, wider hyperparameter searches, and decision-threshold tuning could be explored to improve the balance between precision and recall.
 
 I plan to continue developing this project by experimenting with these approaches and evaluating whether they improve the model's ability to identify potential subscribers.
+  
+## Dataset License
+
+The Bank Marketing dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license, which permits sharing and adaptation with appropriate attribution.
+
+**Dataset citation:** S. Moro, P. Rita, & P. Cortez (2014). *Bank Marketing* [Dataset]. UCI Machine Learning Repository. DOI: 10.24432/C5K306.
+
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
