@@ -1,0 +1,17 @@
+# Virtual environment
+.venv312/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Two images used in README file
+confusion_matrix.png
+mean_cv_f1_scores.png
+
+# raw data files downloaded from the UCI site
+bank+marketing/
+bank+marketing.zip
+
+# .docx report 
+assignment_1_2_combined_report.docx
